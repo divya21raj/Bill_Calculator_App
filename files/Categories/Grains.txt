@@ -1,0 +1,4 @@
+Rice(1KG) :40	
+Wheat(1KG) :20
+Oats(1KG) :70
+Millets(1KG) :60
